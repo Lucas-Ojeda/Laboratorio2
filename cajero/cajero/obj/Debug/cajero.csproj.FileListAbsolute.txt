@@ -1,0 +1,8 @@
+D:\Facultad\lab3\Proyectos\cajero\cajero\bin\Debug\cajero.exe.config
+D:\Facultad\lab3\Proyectos\cajero\cajero\bin\Debug\cajero.exe
+D:\Facultad\lab3\Proyectos\cajero\cajero\bin\Debug\cajero.pdb
+D:\Facultad\lab3\Proyectos\cajero\cajero\obj\Debug\cajero.csproj.AssemblyReference.cache
+D:\Facultad\lab3\Proyectos\cajero\cajero\obj\Debug\cajero.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\lab3\Proyectos\cajero\cajero\obj\Debug\cajero.csproj.CoreCompileInputs.cache
+D:\Facultad\lab3\Proyectos\cajero\cajero\obj\Debug\cajero.exe
+D:\Facultad\lab3\Proyectos\cajero\cajero\obj\Debug\cajero.pdb

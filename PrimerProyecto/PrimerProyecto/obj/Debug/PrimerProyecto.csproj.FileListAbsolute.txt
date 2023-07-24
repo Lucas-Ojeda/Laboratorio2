@@ -1,0 +1,8 @@
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe.config
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.exe
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\bin\Debug\PrimerProyecto.pdb
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.csproj.AssemblyReference.cache
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.csproj.CoreCompileInputs.cache
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.exe
+D:\Facultad\lab3\Proyectos\PrimerProyecto\PrimerProyecto\obj\Debug\PrimerProyecto.pdb

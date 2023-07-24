@@ -1,0 +1,24 @@
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\pacientesDB.db
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\Historial Clinico.exe.config
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\Historial Clinico.exe
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\Historial Clinico.pdb
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\EntityFramework.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\System.Data.SQLite.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\EntityFramework.xml
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\System.Data.SQLite.xml
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.csproj.AssemblyReference.cache
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial_Clinico.Form1.resources
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial_Clinico.Properties.Resources.resources
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.csproj.GenerateResource.cache
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.csproj.CoreCompileInputs.cache
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.csproj.CopyComplete
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.exe
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial Clinico.pdb
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\obj\Debug\Historial_Clinico.Form2.resources
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\Newtonsoft.Json.dll
+D:\Facultad\lab3\TP final\Historial Clinico\Historial Clinico\bin\Debug\Newtonsoft.Json.xml

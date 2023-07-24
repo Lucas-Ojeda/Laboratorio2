@@ -1,0 +1,8 @@
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe.config
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.exe
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\bin\Debug\Tabla de Multiplicar.pdb
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.AssemblyReference.cache
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.csproj.CoreCompileInputs.cache
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.exe
+D:\Facultad\lab3\Proyectos\Proyecto2(Practicos Sencillos)\Tabla de Multiplicar\obj\Debug\Tabla de Multiplicar.pdb

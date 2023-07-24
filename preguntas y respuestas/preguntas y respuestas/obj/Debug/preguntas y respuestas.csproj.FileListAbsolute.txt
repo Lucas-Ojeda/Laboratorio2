@@ -1,0 +1,8 @@
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\bin\Debug\preguntas y respuestas.exe.config
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\bin\Debug\preguntas y respuestas.exe
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\bin\Debug\preguntas y respuestas.pdb
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\obj\Debug\preguntas y respuestas.csproj.AssemblyReference.cache
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\obj\Debug\preguntas y respuestas.csproj.SuggestedBindingRedirects.cache
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\obj\Debug\preguntas y respuestas.csproj.CoreCompileInputs.cache
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\obj\Debug\preguntas y respuestas.exe
+D:\Facultad\lab3\Proyectos\preguntas y respuestas\preguntas y respuestas\obj\Debug\preguntas y respuestas.pdb
